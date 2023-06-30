@@ -1,0 +1,2 @@
+# MLOPs_Collaborative_ML_with_Homomorphic_Encryption
+Collaborative Machine Learning approach to train a mode that classifies a person as smoker or non-smoker based on the user data. The distributed approach of training is done with secure model transmissions to central cloud location where Amazon EC2 instance aggregates the new model based on new training received in Homomorphically Encrypted forms
